@@ -1,0 +1,113 @@
+body {
+	background: #008080
+}
+
+#banner {
+	width: 100%;
+}
+
+#titulo {
+	width: 60%;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 5%;
+	padding: 20px;
+	position: absolute;
+	top: 0px;
+	left: 300px;
+}
+
+.visconde {
+	width: 20%;
+	position: absolute;
+	top: 0px;
+	right: 1050px;
+}
+
+.emilia {
+	width: 20%;
+	position: absolute;
+	top: 300px;
+	left: 1050px;
+}
+
+.bregistro {
+	width: 15%;
+	position: absolute;
+	top: 270px;
+	left: 250px;
+}
+
+.bregistro:hover {
+	width: 16%;
+}
+
+.bcatalogo {
+	width: 15%;
+	position: absolute;
+	top: 270px;
+	left: 450px;
+}
+
+.bcatalogo:hover {
+	width: 16%;
+}
+
+.bemprestimo {
+	width: 15%;
+	position: absolute;
+	top: 270px;
+	left: 650px;
+}
+
+.bemprestimo:hover {
+	width: 16%;
+}
+
+p {
+	font-size: 20px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 30px;
+}
+
+#nomeupper {
+	text-transform: uppercase;
+	font-size: 55px;
+	position: absolute;
+	top: 40px;
+	right: 250px;
+	color: bisque;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.tituloupper {
+	text-transform: uppercase;
+	font-size: 25px;
+	display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+	background: #FFFFFF;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+	position: absolute;
+	top: 540px;
+	left: 550px;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 14px;
+    margin: 20px 0 0;
+}
